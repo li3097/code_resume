@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title></title>
+</head>
+
+<body>
+
+<meta charset="utf-8" />
+<b id="docs-internal-guid-718edf4c-f7da-aabd-8ccd-5a14d3ea3efe" style="font-weight: normal;">
+<p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 6pt; text-align: center;">
+<span style="font-size: 21pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+Lisa E. Tidball</span><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br class="kix-line-break" />
+714 B Johanne Pl Colorado Springs, CO 80906<br class="kix-line-break" />
+l.irby@aol.com • (859) 445-8888<br class="kix-line-break" />
+(moving to western Philadelphia area June 2017 due to husbands military career)</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;">
+<span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+<br class="kix-line-break" />
+PROFESSIONAL EXPERIENCE</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+<br class="kix-line-break" />
+WEB DEVELOPER (VOLUNTEER) <span class="Apple-tab-span" style="white-space: pre;">
+</span>02/2016-2/2017<br class="kix-line-break" />
+</span>
+<span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+Grace Baptist Church, Colorado Springs, CO<span class="Apple-tab-span" style="white-space: pre;">
+</span>5 Hours per Month<br class="kix-line-break" />
+Supervisor: Tom Tolbert, (719)231-5226; may contact</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+<br class="kix-line-break" />
+Edited gbccs.com on Wordpress platform. Utilized HTML5 to format completed
+<br class="kix-line-break" />
+designs for webpages. Added the provided pictures and text to the site as well
+<br class="kix-line-break" />
+as edited pictures to fit the round size. Deleted old pages, and added new
+<br class="kix-line-break" />
+pages. Changed the page to hyperlink to sbaacademy.org and worked with the
+<br class="kix-line-break" />
+supervisor on his vision of the website. Removed old content and banner
+<br class="kix-line-break" />
+pictures. Also, updated current events and linked banners to pages. Typed out
+<br class="kix-line-break" />
+content.</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+<br class="kix-line-break" />
+CUSTOMER SERVICE AGENT (Web Consultant and Tier 2 Tech Support</span><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">)
+<br class="kix-line-break" />
+</span>
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+04/2014- 11/2015</span><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br class="kix-line-break" />
+Convergys, Erlanger, KY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Apple-tab-span" style="white-space: pre;">
+</span>45 Hours per Week<br class="kix-line-break" />
+Supervisor: Kim Middleton, (859)292-3720; may contact</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+<br class="kix-line-break" />
+Used Salesforce to keep track of customer history and troubleshot internet
+<br class="kix-line-break" />
+connection from main office to computers. Also planned site design by clarifying
+<br class="kix-line-break" />
+goals and designing functionality. Developed site navigation by categorizing
+<br class="kix-line-break" />
+content; funneling traffic through content. Additionally, upgraded site by
+<br class="kix-line-break" />
+updating content and graphics, identifying and evaluating improvement options,
+<br class="kix-line-break" />
+introducing new technology. Then maintained site appearance by developing and
+<br class="kix-line-break" />
+enforcing content and display standards; editing submissions. Also kept
+<br class="kix-line-break" />
+equipment operating by following operating instructions, troubleshooting
+<br class="kix-line-break" />
+breakdowns, maintaining supplies, performing preventive maintenance. Constant
+<br class="kix-line-break" />
+communication with colleagues and clients. Received hands on experience with Web
+<br class="kix-line-break" />
+Applications and programming languages such as HTML, CSS, JavaScript, JQuery.
+<br class="kix-line-break" />
+Also gained a strong grasp of security principles.</span></p>
+<br />
+<p dir="ltr" style="line-height: 1.44; margin-top: 0pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+CORE COMPETENCIES</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 3pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+<br class="kix-line-break" />
+Salesforce, CRM, Verbal Communication, Time Management, Organization, Planning,
+<br class="kix-line-break" />
+Web Programming Skills, Multitask, JQuery, JavaScript, Java, Web Graphic Design,
+<br class="kix-line-break" />
+HTML5, GitHub, PHP, Python, CSS3</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 4pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+<br class="kix-line-break" />
+AWARDS</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 4pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+<br class="kix-line-break" />
+Dean’s List, Top Agent at Convergys</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 4pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+<br class="kix-line-break" />
+TRAININGS/CERTIFICATIONS</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 4pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+BACHELOR OF SCIENCE (B.S.) <br class="kix-line-break" />
+Hyles-Anderson College – Secondary Education– 05/2012<br class="kix-line-break" />
+<br class="kix-line-break" />
+HTML, CSS, JQuery, JavaScript, MySQL, Java, PHP – Udemy, Jan 2014-Present;<br class="kix-line-break" />
+Python, HTML&amp;CSS, PHP-Code Academy, Jan 2016 – Present</span></p>
+<p dir="ltr" style="line-height: 1.44; margin-top: 6pt; margin-bottom: 0pt;">
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+<br class="kix-line-break" />
+TECHNICAL PROFICIENCIES<br class="kix-line-break" />
+Platforms: Windows XP/Vista/7/8/10/Mac, <br class="kix-line-break" />
+Dreamweaver/Expression Web 4/Weebly/Wix/Webplanet/Wordpress/GitHub, Photoshop 
+CC, Illustrator, Pixlr, Inkscape; Software: MS Office 2007 &amp; 2013 (Word, Excel, 
+Outlook, PowerPoint); iPad (Pages, Numbers, Keynote); &nbsp;Salesforce, CRM;<br class="kix-line-break" />
+</span></p>
+<span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+TYPE 60 WPM</span></b><meta charset="utf-8" /><b id="docs-internal-guid-3d076850-f7c9-6c94-ab35-a7fe24ff1fd8" style="font-weight:normal;"></b><br class="Apple-interchange-newline" />
+
+</body>
+
+</html>
